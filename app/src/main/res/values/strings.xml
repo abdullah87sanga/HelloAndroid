@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="adress1" translatable="false">2465 Latham St</string>
+    <string name="adress2" translatable="false">Mountain View, CA 94043</string>
+    <string name="phone" translatable="false">650-555-5555</string>
+
+
+</resources>
